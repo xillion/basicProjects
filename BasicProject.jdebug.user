@@ -1,0 +1,9 @@
+OpenWindow="Memory Content1", DockArea=BOTTOM, x=1, y=0, w=692, h=125, FilterBarShown=0, 
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=486, h=164, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Console", DockArea=BOTTOM, x=2, y=0, w=795, h=125, FilterBarShown=0, 
+OpenWindow="Watched Data", DockArea=RIGHT, x=0, y=1, w=486, h=646, FilterBarShown=0, 
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=325, h=816, FilterBarShown=1, 
+OpenWindow="J-Link Control Panel", DockArea=BOTTOM, x=0, y=0, w=421, h=125, FilterBarShown=0, 
+OpenToolbar="Debug", Floating=0, x=0, y=0
+TableHeader="Watched Data", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Size";"Refresh";"Type";"Scope"], ColWidths=[193;102;84;48;67;230;59]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[238;69;48;57;203]
